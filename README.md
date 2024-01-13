@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on training a deep learning model to classify images of flowers 
+This project focuses on training a deep learning model to classify images of flowers, and was completed as a part of the AI programming with Python Nanodegree by Udacity .
 
 ## Model Architecture
 
